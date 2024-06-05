@@ -7,3 +7,5 @@ dist/*
 !dist/.keep
 
 build/*
+
+coverage/
