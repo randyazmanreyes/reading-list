@@ -25,6 +25,11 @@
     ```
 4. Open this link in the browser to view the application: [http://localhost:3000](http://localhost:3000)
 
+5. Run tests
+    ```
+    npm test
+    ```
+
 ## Deploy to production
 
 1. Build the server code, output files will be created in the `_./build/server/src_` directory
